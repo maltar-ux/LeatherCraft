@@ -3,8 +3,8 @@
     font-family: "Akkurat-Mono","RobotoMono-Regular"; 
 
     /*linkar pasta*/
-    src: url("../font/Akkurat-Mono.OTF");
-    src: url("../font/RobotoMono-Regular.ttf");
+    src: url("../LeatherCraft/font/Akkurat-Mono.OTF");
+    src: url("../LeatherCraft/font/RobotoMono-Regular.ttf");
 }
 
 body {
